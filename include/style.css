@@ -1,0 +1,7 @@
+.logo-gestore{
+    max-width: 50%;
+}
+.dataTables_filter input{
+    border: solid 1px #00c851!important;
+    border-radius: 15px;
+}
